@@ -5,7 +5,7 @@ This project is a **Salesforce CRM solution for OTT platforms** (like Netflix, P
 It manages the **entire subscription lifecycle** — from sign-up to renewal, cancellation, and refunds — while providing insights into revenue, churn, and customer support.  
 
 👉 Full project explanation is available here:  
-- [📄 OTT_Subscription_CRM.docx](OTT_Subscription_CRM.docx)  
+- [📄 OTT Subscription-CRM.docx](OTT%20Subscription-CRM.docx)  
 
 ---
 
@@ -59,6 +59,6 @@ It manages the **entire subscription lifecycle** — from sign-up to renewal, ca
 ---
 
 ## 📌 Author
-👩‍💻 Your Name  
-📧 your-email@example.com  
-🔗 [LinkedIn](#) | [GitHub](#)
+👩‍💻 Syed Fathima Thasneem 
+📧 syedthasneem8@gmail.com  
+🔗LINKEDIN- https://www.linkedin.com/in/syed-fathima-thasneem-3bab10374 | GITHUB -https://github.com/Thasneem589
