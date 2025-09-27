@@ -47,6 +47,14 @@ It manages the **entire subscription lifecycle** — from sign-up to renewal, ca
 
 ## 📸 Demo & Screenshots
 (Add Salesforce screenshots here: Dashboards, Flows, Subscriptions.)  
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/7c20bf5d-8ee7-4391-99a5-b3c0f18c63b0" />
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/2292e3f5-3f09-4451-8a9f-a4dc553c86a8" />
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/42dc08a8-392e-414a-9400-9b0eef6b20da" />
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/af8c2c82-c7a5-4c90-a516-8a55c9dc567c" />
+
+
+
+
 
 ---
 
